@@ -1,4 +1,4 @@
-(async)
+
   try {
     const {
       makeWASocket: _0x4f98c4,
